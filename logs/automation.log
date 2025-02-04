@@ -1,0 +1,9 @@
+2025-02-04 17:37:07.029 [main] INFO  codenbox.TestBase.Base - Completed Registration Test
+2025-02-04 17:37:11.226 [main] INFO  codenbox.TestBase.Base - *******Starting Registration Test*********
+2025-02-04 17:37:11.227 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link
+2025-02-04 17:37:11.334 [main] INFO  codenbox.TestBase.Base - Clicked on My Login link
+2025-02-04 17:37:11.746 [main] INFO  codenbox.TestBase.Base - Entered email for login
+2025-02-04 17:37:12.019 [main] INFO  codenbox.TestBase.Base - Entered password for login
+2025-02-04 17:37:12.091 [main] INFO  codenbox.TestBase.Base - clicked on login btn
+2025-02-04 17:37:13.020 [main] INFO  codenbox.TestBase.Base - Account page verification
+2025-02-04 17:37:13.072 [main] INFO  codenbox.TestBase.Base - login test failed

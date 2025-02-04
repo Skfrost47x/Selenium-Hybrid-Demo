@@ -1,0 +1,55 @@
+2025-01-28 15:11:27.929 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link
+2025-01-28 15:11:27.964 [main] INFO  codenbox.TestBase.Base - Clicked on My Login link
+2025-01-28 15:11:28.320 [main] INFO  codenbox.TestBase.Base - Entered email for login
+2025-01-28 15:11:28.373 [main] INFO  codenbox.TestBase.Base - Entered password for login
+2025-01-28 15:11:28.423 [main] INFO  codenbox.TestBase.Base - clicked on login btn
+2025-01-28 15:11:33.883 [main] INFO  codenbox.TestBase.Base - ****validation for invalid result*****
+2025-01-28 15:11:33.884 [main] INFO  codenbox.TestBase.Base - ****validation for valid result*****
+2025-01-28 15:11:33.890 [main] INFO  codenbox.TestBase.Base - ****completed LoginDDTest*****
+2025-01-28 15:11:33.891 [main] INFO  codenbox.TestBase.Base - *******Starting Registration Test*********
+2025-01-28 15:11:33.891 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link
+2025-01-28 15:11:38.924 [main] INFO  codenbox.TestBase.Base - *******Starting Registration Test*********
+2025-01-28 15:11:38.924 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link
+2025-01-28 15:11:43.941 [main] INFO  codenbox.TestBase.Base - *******Starting Registration Test*********
+2025-01-28 15:11:43.941 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link
+2025-01-28 15:12:17.526 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17185\eclipse-workspace\HybridDemo\master.xml
+
+2025-01-28 15:12:21.762 [main] INFO  codenbox.TestBase.Base - *******Starting Registration Test*********
+2025-01-28 15:12:21.775 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link
+2025-01-28 15:12:21.833 [main] INFO  codenbox.TestBase.Base - Clicked on My Login link
+2025-01-28 15:12:22.207 [main] INFO  codenbox.TestBase.Base - Entered email for login
+2025-01-28 15:12:22.259 [main] INFO  codenbox.TestBase.Base - Entered password for login
+2025-01-28 15:12:22.302 [main] INFO  codenbox.TestBase.Base - clicked on login btn
+2025-01-28 15:12:27.701 [main] INFO  codenbox.TestBase.Base - ****validation for invalid result*****
+2025-01-28 15:12:27.702 [main] INFO  codenbox.TestBase.Base - ****validation for valid result*****
+2025-01-28 15:12:27.703 [main] INFO  codenbox.TestBase.Base - ****completed LoginDDTest*****
+2025-01-28 15:12:27.705 [main] INFO  codenbox.TestBase.Base - *******Starting Registration Test*********
+2025-01-28 15:12:27.705 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link
+2025-01-28 15:12:27.757 [main] INFO  codenbox.TestBase.Base - Clicked on My Login link
+2025-01-28 15:12:28.120 [main] INFO  codenbox.TestBase.Base - Entered email for login
+2025-01-28 15:12:28.158 [main] INFO  codenbox.TestBase.Base - Entered password for login
+2025-01-28 15:12:28.188 [main] INFO  codenbox.TestBase.Base - clicked on login btn
+2025-01-28 15:12:33.808 [main] INFO  codenbox.TestBase.Base - ****validation for invalid result*****
+2025-01-28 15:12:33.808 [main] INFO  codenbox.TestBase.Base - ****validation for valid result*****
+2025-01-28 15:12:33.808 [main] INFO  codenbox.TestBase.Base - ****completed LoginDDTest*****
+2025-01-28 15:12:33.810 [main] INFO  codenbox.TestBase.Base - *******Starting Registration Test*********
+2025-01-28 15:12:33.810 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link
+2025-01-28 15:12:33.842 [main] INFO  codenbox.TestBase.Base - Clicked on My Login link
+2025-01-28 15:12:34.639 [main] INFO  codenbox.TestBase.Base - Entered email for login
+2025-01-28 15:12:34.675 [main] INFO  codenbox.TestBase.Base - Entered password for login
+2025-01-28 15:12:34.705 [main] INFO  codenbox.TestBase.Base - clicked on login btn
+2025-01-28 15:12:40.439 [main] INFO  codenbox.TestBase.Base - ****validation for invalid result*****
+2025-01-28 15:12:40.440 [main] INFO  codenbox.TestBase.Base - ****validation for valid result*****
+2025-01-28 15:12:40.440 [main] INFO  codenbox.TestBase.Base - ****completed LoginDDTest*****
+2025-01-28 15:12:40.441 [main] INFO  codenbox.TestBase.Base - *******Starting Registration Test*********
+2025-01-28 15:12:40.441 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link
+2025-01-28 15:12:40.476 [main] INFO  codenbox.TestBase.Base - Clicked on My Login link
+2025-01-28 15:12:41.541 [main] INFO  codenbox.TestBase.Base - Entered email for login
+2025-01-28 15:12:41.571 [main] INFO  codenbox.TestBase.Base - Entered password for login
+2025-01-28 15:12:41.600 [main] INFO  codenbox.TestBase.Base - clicked on login btn
+2025-01-28 15:12:47.448 [main] INFO  codenbox.TestBase.Base - ****validation for invalid result*****
+2025-01-28 15:12:47.448 [main] INFO  codenbox.TestBase.Base - ****validation for valid result*****
+2025-01-28 15:12:47.448 [main] INFO  codenbox.TestBase.Base - ****completed LoginDDTest*****
+2025-01-28 15:12:47.450 [main] INFO  codenbox.TestBase.Base - *******Starting Registration Test*********
+2025-01-28 15:12:47.450 [main] INFO  codenbox.TestBase.Base - Clicked on My Account link

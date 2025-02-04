@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-04T17:36:59 EST" name="Suite" finished-at="2025-02-04T17:37:13 EST" duration-ms="14501">
+    <groups>
+      <group name="Sanity">
+        <method signature="RegistrationTest.verify_registration()[pri:0, instance:codenbox.testCases.RegistrationTest@4dd02341]" name="verify_registration" class="codenbox.testCases.RegistrationTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="LoginTest.verify_login()[pri:0, instance:codenbox.testCases.LoginTest@73a2e526]" name="verify_login" class="codenbox.testCases.LoginTest"/>
+        <method signature="RegistrationTest.verify_registration()[pri:0, instance:codenbox.testCases.RegistrationTest@4dd02341]" name="verify_registration" class="codenbox.testCases.RegistrationTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-02-04T17:36:59 EST" name="Test" finished-at="2025-02-04T17:37:13 EST" duration-ms="14501">
+      <class name="codenbox.testCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:codenbox.testCases.LoginTest@73a2e526]" started-at="2025-02-04T17:37:07 EST" name="setup" finished-at="2025-02-04T17:37:11 EST" duration-ms="3369" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chromeheadless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:codenbox.testCases.LoginTest@73a2e526]" started-at="2025-02-04T17:37:11 EST" name="verify_login" finished-at="2025-02-04T17:37:13 EST" duration-ms="1847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:codenbox.testCases.LoginTest@73a2e526]" started-at="2025-02-04T17:37:13 EST" name="tearDown" finished-at="2025-02-04T17:37:13 EST" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- codenbox.testCases.LoginTest -->
+      <class name="codenbox.testCases.RegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:codenbox.testCases.RegistrationTest@4dd02341]" started-at="2025-02-04T17:36:59 EST" name="setup" finished-at="2025-02-04T17:37:04 EST" duration-ms="5066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chromeheadless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_registration()[pri:0, instance:codenbox.testCases.RegistrationTest@4dd02341]" started-at="2025-02-04T17:37:04 EST" name="verify_registration" finished-at="2025-02-04T17:37:07 EST" duration-ms="2397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:codenbox.testCases.RegistrationTest@4dd02341]" started-at="2025-02-04T17:37:07 EST" name="tearDown" finished-at="2025-02-04T17:37:07 EST" duration-ms="784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- codenbox.testCases.RegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
