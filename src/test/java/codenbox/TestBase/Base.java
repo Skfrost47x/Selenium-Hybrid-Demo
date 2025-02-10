@@ -31,6 +31,7 @@ public class Base {
 	public FileInputStream fs;
 
 	// will run before every test cases
+	// will make sure about the browser trigger everytime
 	@BeforeMethod(alwaysRun = true) // (groups= {"Sanity", "Regression"})
 	@Parameters({ "OS", "Browser" })
 	public void setup(String osname, String browserName) throws IOException {
